@@ -161,6 +161,7 @@ input:valid {
 
 .footer_link {
   padding: 0.2rem;
+  width: 25px;
 }
 
 /* Media-queries */
